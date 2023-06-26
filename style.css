@@ -1,0 +1,36 @@
+*{
+    border: 1px solid red;
+}
+
+/* Tipos de selectores en css */
+/* ID */
+#persona{
+
+    color: aqua ;
+}
+
+/* CLASE */
+
+.btn{
+    background: olive;
+    border: 1px solid red;
+}
+/* ETIQUETA */
+
+img{
+    width: 100px;
+}
+
+/* google fonts */
+
+.TextoGrande{
+    font-size: 20px;
+    font-family: 'Ysabeau SC', sans-serif;
+    color: red;
+
+}
+
+input{
+    background-color: aquamarine;
+    display: block;
+}
